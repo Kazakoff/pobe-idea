@@ -12,7 +12,7 @@ class EnumDemo5 {
         for (Apple a : Apple.values())
             System.out.println(a + " " + a.ordinal());
 
-
+// vvvv
         ap = Apple.RedDel;
         ap2 = Apple.GoldenDel;
         ap3 = Apple.RedDel;
